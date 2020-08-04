@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Tvnombre">Area</string>
+    <string name="TvNumero">Radio</string>
+    <string name="Edtnombre">Ingrese su nombre</string>
+    <string name="EdtNumero">Ingrese el radio</string>
+
+</resources>

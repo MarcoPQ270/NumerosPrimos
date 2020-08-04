@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Tvnombre">Name</string>
+    <string name="Edtnombre">Enter your name</string>
+    <string name="TvNumero">Number</string>
+    <string name="EdtNumero">Enter your cell number</string>
+</resources>
